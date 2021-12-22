@@ -1,0 +1,6 @@
+<html>
+
+<Print> "Hello world"
+</Print>
+
+</html>
